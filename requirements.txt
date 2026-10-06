@@ -1,0 +1,4 @@
+# Exact versions the code was developed and tested with (Python 3.11).
+numpy==2.4.4
+scipy==1.17.1
+Pillow==12.2.0
